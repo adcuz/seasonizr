@@ -20,7 +20,7 @@ Output (if today was a winter day):
 winter
 ```
 Specific date:
-```
+```php
 // June 2nd 2018
 $date = (new \DateTime())->setDate(2018, 6, 2);
 $conversion->country('GB', $date);
