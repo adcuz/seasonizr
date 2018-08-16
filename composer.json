@@ -1,0 +1,12 @@
+{
+    "name": "adcuz/seasonizr",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.3",
+        "nesbot/carbon": "^1.33"
+    },
+    "autoload": {
+        "psr-4": {"Adcuz\\Seasonizr\\": "src/"}
+    },
+    "require": {}
+}
